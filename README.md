@@ -1,17 +1,7 @@
-# Boas-vindas ao projeto:
-
-### Página de receita 🎂
-
-Nesse projeto você vai desenvolver uma página simples de receita.
-
-![paginaReceita](assets/about.png)
-
-Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um de nossos conteúdos de especialização.
-
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Página de receita 🎂 </h1>
 
 <p align="center">
-Curso exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um de nossos conteúdos de especialização.
 </p>
 
 <p align="center">
@@ -35,12 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O
-
-O
+Nesse projeto vou desenvolver uma página simples de receita. 🥳
 
 ---
 
-Feito com ♥ by Rocketseat
+Feito com ♥ junto à Rocketseat!
 
 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
