@@ -12,6 +12,8 @@
 body {
   background-image: url(assets/bg-image.jpg);
   background-size: cover;
+  background-color: #573824;
+  background-blend-mode: multiply;
 }
 
 #page {
