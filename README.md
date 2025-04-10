@@ -1,7 +1,7 @@
 <h1 align="center"> Página de receita 🎂 </h1>
 
 <p align="center">
-Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um de nossos conteúdos de especialização.
+Projeto desenvolvido em aula na formação Full-Stack pela Rocketseat💜
 </p>
 
 <p align="center">
@@ -19,16 +19,17 @@ Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um de no
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-Nesse projeto vou desenvolver uma página simples de receita. 🥳
+Este projeto foi desenvolvido como parte da Formação Exclusiva da Rocketseat, com o objetivo de aprender e praticar os fundamentos de HTML e CSS. O projeto consiste na criação de uma página web simples de receitas, aplicando conceitos essenciais como estruturação semântica do conteúdo, estilização com CSS, uso de listas, links e imagens.
+
+A ideia é consolidar o conhecimento básico necessário para construção de páginas estáticas, servindo como primeiro passo na jornada de desenvolvimento web. 🥳
 
 ---
 
-Feito com ♥ junto à Rocketseat!
-
-[Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center"><b>Feito com ♥ junto à Rocketseat💜</b></p>
