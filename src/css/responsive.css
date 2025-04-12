@@ -1,3 +1,20 @@
+#page {
+    width: 800px;
+    margin: 48px auto 28px;
+    padding: 24px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+}
+
+footer img {
+    width: 16px;
+    height: 16px;
+}
+
 @media (max-width: 868px) {
     #page {
         width: 90%;
@@ -25,9 +42,4 @@
     main {
         padding: 16px;
     }
-}
-
-footer img {
-    width: 16px;
-    height: 16px;
 }
